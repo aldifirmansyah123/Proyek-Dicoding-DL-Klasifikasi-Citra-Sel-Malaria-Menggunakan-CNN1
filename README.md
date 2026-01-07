@@ -43,5 +43,3 @@ Model ini disimpan dalam tiga format untuk kemudahan penggunaan di berbagai plat
 - **SavedModel** (TensorFlow): Disimpan di dalam folder `saved_model/`.
 - **TensorFlow Lite (TFLite)**: Disimpan dalam format `.tflite` di dalam folder `tflite/`.
 - **TensorFlow.js (TFJS)**: Disimpan di dalam folder `tfjs_model/`.
-
-## Struktur Folder
